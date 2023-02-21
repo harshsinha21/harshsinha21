@@ -1,4 +1,5 @@
-### Hi there 👋
+### This is information about myself
+    including my bio and resume 👋
 
 <!--
 **harshsinha21/harshsinha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
