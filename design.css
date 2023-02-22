@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: black;
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 50px;
+}
+
+.shell {
+    max-width: 750px;
+    background: white;
+    margin: 0px auto 0px;
+    border-radius: 4px;
+    padding: 38px;
+    margin-top: 50px;
+}
+
+.header {
+    margin-bottom: 30px;
+
+}
+
+.fname {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.name {
+    font-weight: 500;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.email,
+.phone {
+    color: black;
+    font-weight: 300;
+}
+
+.separator {
+    height: 10px;
+    display: inline-block;
+    border-left: 2px solid #999;
+    margin: 0px 10px;
+}
+
+.position {
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: underline;
+}
+
+.right {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.left {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.left {
+    width: 60%;
+}
+
+.right {
+    text-align: right;
+    width: 39%;
+}
