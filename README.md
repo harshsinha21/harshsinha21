@@ -1,7 +1,7 @@
 ### This is information about myself including my bio and resume 👋
 
-All parts of the assignment are completed and validated. I was able to implement the photo,
-and the links to the bio and resume on the index. 
+All parts of the assignment are completed and validated. I was able to implement the photo, the 5 css rules
+and the links to the bio and resume on the index.html. 
 
 This lab took a lot of time to edit and tweak. The entire process from learning to application 
 was approximately 6-8hours. The longest part being the resume structure.
