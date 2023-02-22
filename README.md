@@ -1,5 +1,15 @@
 ### This is information about myself including my bio and resume 👋
 
+All parts of the assignment are completed and validated. I was able to implement the photo,
+and the links to the bio and resume on the index. 
+
+This lab took a lot of time to edit and tweak. The entire process from learning to application 
+was approximately 6-8hours. The longest part being the resume structure.
+
+This was a very engaging lab, I will aim to spend more time on the next one for better results.
+
+I did not include a real biography or real photo.
+
 <!--
 **harshsinha21/harshsinha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
